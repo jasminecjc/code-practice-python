@@ -9,7 +9,7 @@ class Solution:
     def reserverList1(self, head):
         # 非递归
         if not head or not head.next:
-            return []
+            return head
         else:
             prev = head
             cur = head.next
