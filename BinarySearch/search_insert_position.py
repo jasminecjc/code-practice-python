@@ -19,17 +19,18 @@ class Solution:
     while start + 1 < end:
       mid = start + (end - start) // 2
       if nums[mid] == target:
-        return mid
+        end = mid
       elif nums[mid] < target:
         start = mid
       else:
         end = mid
-    if nums[start] < target:
-      return start + 1
-    if nums[end] > target:
+    if nums[end] >= target:
       return end
+    if nums[start] <= target:
+      return start + 1
+    
 
 test = Solution()
-arr = [1,2,3]
-target = 2
+arr = arr = [0,1,1,1,2,3,6,7,8,9]
+target = 1
 print(test.searchInsert(arr, target))

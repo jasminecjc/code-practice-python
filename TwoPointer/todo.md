@@ -1,3 +1,5 @@
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)
 - [3Sum](https://leetcode.com/problems/3sum/description/)
 - [4Sum](https://leetcode.com/problems/4sum/description/)
+- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
