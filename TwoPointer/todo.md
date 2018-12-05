@@ -4,3 +4,5 @@
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+- [Reverse String](https://leetcode.com/problems/reverse-string/)
+- [Move Zeroes](https://leetcode.com/problems/move-zeroes/)

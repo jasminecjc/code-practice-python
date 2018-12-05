@@ -1,3 +1,5 @@
 - [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)
 - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+- [Two Sum](https://leetcode.com/problems/two-sum/)
