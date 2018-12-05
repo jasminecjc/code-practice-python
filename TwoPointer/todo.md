@@ -3,3 +3,4 @@
 - [4Sum](https://leetcode.com/problems/4sum/description/)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
