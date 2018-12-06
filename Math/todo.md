@@ -2,3 +2,5 @@
 - [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 - [Plus One](https://leetcode.com/problems/plus-one/)
 - [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+- [Hex Conversion](https://www.lintcode.com/problem/hex-conversion/)
+- [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)

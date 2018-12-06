@@ -7,4 +7,5 @@
 - [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 - Rabin-Karp
 - 进制转换
-- [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) -[Hex Conversion](https://www.lintcode.com/problem/hex-conversion/description)
+- [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+- [Hex Conversion](https://www.lintcode.com/problem/hex-conversion/)
