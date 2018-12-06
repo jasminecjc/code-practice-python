@@ -1,2 +1,5 @@
 - [longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
