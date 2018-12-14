@@ -9,14 +9,14 @@ class Solution(object):
     nums = sorted(nums)
     res = []
     for idx, val in enumerate(nums):
-      if idx and val == nums[i - 1]:
+      if idx and val == nums[idx - 1]:
         continue
       l, r = idx + 1, len(nums) - 1
       while l < r:
         ans = nums[l] + nums[r]
         if ans == -val:
           res.append([val, nums[l], nums[r]])
-          while l < r and nums[l] == nums[l - 1]:
+          while l < r and nums[l] == nums[l + 1]:
             l += 1
           while l < r and nums[r] == nums[r - 1]:
             r -= 1

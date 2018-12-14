@@ -3,3 +3,4 @@
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [Two Sum](https://leetcode.com/problems/two-sum/)
+- [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/discuss/?orderBy=recent_activity)

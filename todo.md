@@ -9,3 +9,7 @@
 - 进制转换
 - [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 - [Hex Conversion](https://www.lintcode.com/problem/hex-conversion/)
+- [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+- [Count and Say](https://leetcode.com/problems/count-and-say/)
+- [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)

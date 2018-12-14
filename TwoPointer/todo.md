@@ -7,3 +7,4 @@
 - [Reverse String](https://leetcode.com/problems/reverse-string/)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)

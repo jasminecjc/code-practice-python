@@ -3,3 +3,5 @@
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+- [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+- [Word Break](https://leetcode.com/problems/word-break/)

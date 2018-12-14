@@ -1,0 +1,2 @@
+- [Number of Islands](https://www.jiuzhang.com/solution/number-of-islands/)
+- [Course Schedule](https://leetcode.com/problems/course-schedule/c)
