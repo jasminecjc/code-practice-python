@@ -1,3 +1,2 @@
 - [Valid Number](https://leetcode.com/problems/valid-number/)
-- [Hex Conversion](https://www.lintcode.com/problem/hex-conversion/)
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
