@@ -4,4 +4,3 @@
 - [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)
 - [Wood Cut](https://www.lintcode.com/problem/wood-cut/description)
 - [longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
-- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
