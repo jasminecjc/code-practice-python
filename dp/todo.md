@@ -4,3 +4,4 @@
 - [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 - [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
 - [Word Break](https://leetcode.com/problems/word-break/)
+- [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)

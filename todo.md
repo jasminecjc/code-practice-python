@@ -8,3 +8,8 @@
 - [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [Count and Say](https://leetcode.com/problems/count-and-say/)
+- [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
+- [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+- [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
+- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- [Word Search](https://leetcode.com/problems/word-search/)
