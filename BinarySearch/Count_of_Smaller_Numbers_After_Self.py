@@ -25,7 +25,7 @@ class Solution:
             left, right = 0, len(temp)
             while left < right:
                 mid = (left + right) // 2
-                if temp[mid] > cur:
+                if temp[mid] >= cur:
                     right = mid
                 else:
                     left = mid + 1
@@ -36,5 +36,5 @@ class Solution:
         return res
 
 test = Solution()
-nums = [6,5,4,3,2,1]
+nums = [6,6]
 print(test.countSmaller(nums))
