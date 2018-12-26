@@ -13,3 +13,5 @@
 - [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
 - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [Word Search](https://leetcode.com/problems/word-search/)
+- [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
+- 优先队列
